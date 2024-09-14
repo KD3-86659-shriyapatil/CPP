@@ -9,12 +9,12 @@ class Tollbooth {
     int nonPayingCars=3;
 
 
-    Tollbooth(){
-        totalCars=0;
-        totalMoneyCollected=0.0;
-        payingCars=0;
-        nonPayingCars=0;
-    }
+    // Tollbooth(){
+    //     totalCars=0;
+    //     totalMoneyCollected=0.0;
+    //     payingCars=0;
+    //     nonPayingCars=0;
+    // }
 
       void payingcars() {
         totalCars ++;
